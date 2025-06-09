@@ -21,5 +21,5 @@ A simple Task Management web app built with PHP and MySQL.
 4.Go to phpMyAdmin
   -Create a new database called task_manager
   -Import the task_manager.sql file from this project
-  
+
 5. Visit the project in your browser: http://localhost/php-task-manager/login.php
